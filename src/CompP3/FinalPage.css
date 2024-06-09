@@ -1,0 +1,96 @@
+.finalcont{
+    background:  #5e2085;
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.leftp{
+
+}
+.leftp img{
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
+   
+   
+}
+.exampleVideo{
+    height: 350px;
+    border-radius: 10px;
+    pointer-events: none; 
+}
+.rightp{
+  
+}
+.rightp img{
+    height: 300px;
+    margin: 10px;
+
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: #ecd9f8;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    
+    
+
+}
+
+
+
+
+
+.fhoto{
+}
+.sodhi{
+    color: #4c00b4;
+    font-weight: 650;
+    font-size: x-large;
+    margin-top: 50px;
+    padding: 10px;
+    gap: 5px;
+    margin-bottom: 30px;
+
+
+    display: inline-block; /* Make the span behave like a block element for width control */
+    max-width: 350px;      /* Set the maximum width */
+    word-wrap: break-word; /* Allow breaking words to wrap to the next line */
+    white-space: normal;   /* Ensure the text wraps normally */
+   /* Optional: Add a border for visibility */
+    padding: 5px; 
+    
+}
+
+@media screen and (max-width: 1000px){
+    .finalcont{
+        background:  #5e2085;
+        margin: 20px;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+    .all{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #ecd9f8;
+        margin: 10px;
+        border-radius: 10px;
+        padding: 10px;
+        
+        
+    
+    }
+    .except img{
+        height: 200px ;
+    }
+    
+}

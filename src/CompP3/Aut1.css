@@ -1,0 +1,179 @@
+.jabba1{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 50px;
+    background: white;
+    padding-top: 20px;
+    width: 500px;
+    border-radius: 13px;
+}
+
+.dash h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    color: #3c009d;
+    font-weight: 550;
+
+}
+.d{
+    display: flex;
+    flex-direction: row;
+    font-size: x-large;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+    margin-top: 2px;
+    font-weight: 900;
+    margin-bottom: 25px;
+    
+}
+.bd{
+    background: #3c009d;
+    width: 60px;
+    color: white;
+    border-radius: 9px;
+    padding-left: 15px;
+    height: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.wd{
+    background: #9886b6;
+    width: 60px;
+    color: white;
+    border-radius: 9px;
+    padding-left: 15px;
+    height: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.step{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    color: #3c009d;
+    font-weight: 550;
+
+}
+.dis{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    gap: 9px;
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    color: #3c009d;
+    font-weight: 650;
+
+}
+.leest{
+    margin-left: 20px;
+    gap: 9px;
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    color:#9886b6;
+    font-weight: 550;
+}
+.Mtext{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    gap: 9px;
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    color: #cc3b4e;
+    font-weight: 650;
+}
+
+.outb{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 30px auto;
+}
+.but{
+    padding-top: 13px;
+    width: 120px;
+    text-align: center;
+    height: 60px;
+    color: #fff;
+    background: #4c00b4;
+    border-radius: 45px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    padding-bottom: 15px;
+}
+.last{
+    
+   
+    list-style-type: none;
+    padding-left: 15px;
+  
+    color: #3c009d;
+    font-weight: 650;
+}
+.last li{
+    padding-left: 35px;
+    background-size: 10px 10px; /* Adjust the size as needed */
+    line-height: 27px; /* Adjust the height to match the image */
+    background: url('./Asset2/chinna.png') no-repeat left center;
+}
+
+.last2{
+    
+   
+    list-style-type: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #3c009d;
+    font-weight: 650;
+}
+.last2 li{
+    padding-left: 35px;
+    background-size: 10px 10px; /* Adjust the size as needed */
+    line-height: 27px; /* Adjust the height to match the image */
+    background: rgb(230, 90, 90);
+    border-radius: 7px;
+}
+
+.bye{
+    display: flex;
+    flex-direction: column;
+    padding-left: 80px;
+    margin: 30px;
+    gap: 9px;
+    width: 100%;
+    color: whitesmoke;
+    font-weight: 550;
+}
+@media screen and (max-width: 1000px){
+    .jabba1{
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        margin-top: 25px;
+        background: white;
+        padding-top: 10px;
+        width: 375px;
+        border-radius: 13px;
+    }
+    
+
+
+}

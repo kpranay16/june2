@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+
+.happy-birthday-text {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  font-size: 48px;
+  color: #ff69b4;  /* Use a fun, bright color for the birthday text */
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  perspective: 1000px;  /* Enable 3D perspective */
+}
+
+.happy-birthday-text span {
+  display: inline-block;
+  transform: rotateX(0deg);
+  transition: transform 0.3s ease-in-out;
+}
+
+.happy-birthday-text:hover span {
+  transform: rotateX(360deg);
+}
+.MainP{
+
+
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: whitesmoke;  /* Use a fun, bright color for the birthday text */
+  font-weight: 500;
+  background: #4c0b72;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+ 
+ 
+ 
+  border-radius: 13px;
+
+
+  
+
+}
+
+
