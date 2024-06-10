@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/june2/static/css/main.f203fc91.css",
+    "main.js": "/june2/static/js/main.c996fbdb.js",
+    "static/js/453.d4d5fd26.chunk.js": "/june2/static/js/453.d4d5fd26.chunk.js",
+    "static/media/Audio.mp3": "/june2/static/media/Audio.4f8da57e6dd8355068f8.mp3",
+    "static/media/viddd.mp4": "/june2/static/media/viddd.b3945667537c3c244dab.mp4",
+    "static/media/moon.jpg": "/june2/static/media/moon.e6d6bcc70b9e4ce631a2.jpg",
+    "static/media/onlymeflower.jpg": "/june2/static/media/onlymeflower.0c8d5738406bd95f1001.jpg",
+    "static/media/nakralu.jpg": "/june2/static/media/nakralu.60871fbc1a7248855dea.jpg",
+    "static/media/meflower.jpg": "/june2/static/media/meflower.5c0a424175dcb6555c86.jpg",
+    "static/media/hate.jpg": "/june2/static/media/hate.046eb4f4edcec1048ccf.jpg",
+    "static/media/dog.jpg": "/june2/static/media/dog.a4599ccec0e97f9368d0.jpg",
+    "static/media/devudu.jpg": "/june2/static/media/devudu.c32b1301fc27f723eede.jpg",
+    "static/media/dayyam.jpg": "/june2/static/media/dayyam.907f020c3f259700f193.jpg",
+    "static/media/sketch.jpg": "/june2/static/media/sketch.7b43a926fc0e457b0d04.jpg",
+    "static/media/ljjj.jpg": "/june2/static/media/ljjj.ed45812d32c3b4fcce72.jpg",
+    "static/media/angulam.jpg": "/june2/static/media/angulam.b5ebf10ca764e0df9e6a.jpg",
+    "static/media/pony.jpg": "/june2/static/media/pony.4e1b988c5106cfd18bc1.jpg",
+    "static/media/chinnapapa.jpg": "/june2/static/media/chinnapapa.fd4773c59018562917a8.jpg",
+    "static/media/calls.jpg": "/june2/static/media/calls.0c16b61a46c88b8ac8da.jpg",
+    "static/media/cuteu.jpg": "/june2/static/media/cuteu.f97fabf4ecc3929d2008.jpg",
+    "static/media/kj.jpg": "/june2/static/media/kj.c10799cf46862304f0b5.jpg",
+    "static/media/draw.jpg": "/june2/static/media/draw.8420777066fb60821c40.jpg",
+    "static/media/ss2.jpg": "/june2/static/media/ss2.f983dbbf728b165101af.jpg",
+    "static/media/ss.jpg": "/june2/static/media/ss.a6e792684c716a63f9c1.jpg",
+    "static/media/doll.jpg": "/june2/static/media/doll.39e18b4b542f3c2b09d3.jpg",
+    "static/media/logo.svg": "/june2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/june2/index.html",
+    "main.f203fc91.css.map": "/june2/static/css/main.f203fc91.css.map",
+    "main.c996fbdb.js.map": "/june2/static/js/main.c996fbdb.js.map",
+    "453.d4d5fd26.chunk.js.map": "/june2/static/js/453.d4d5fd26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f203fc91.css",
+    "static/js/main.c996fbdb.js"
+  ]
+}
